@@ -1,0 +1,19 @@
+Desired vel_x: 1.5
+Avg steady-state vx: 1.4516009529561225
+Warmup_sec: 0
+sim_dt: 0.001
+action_repeat: 10
+dt_control: 0.01
+Robot mass: 12.45501
+Distance after warmup: 14.522337831954223
+Energy after warmup: 1768.4091359013269
+CoT: 0.9966280964850571
+
+Per-leg gait metrics:
+leg0: {'duty': 0.40843621399176944, 'T_stride': 0.21600000000000005, 'T_stance': 0.08822222222222222, 'T_swing': 0.12777777777777777}
+leg1: {'duty': 0.7401656314699793, 'T_stride': 0.23, 'T_stance': 0.17023809523809524, 'T_swing': 0.05976190476190476}
+leg2: {'duty': 0.5955414012738853, 'T_stride': 0.22975609756097565, 'T_stance': 0.13682926829268294, 'T_swing': 0.09292682926829268}
+leg3: {'duty': 0.7053191489361703, 'T_stride': 0.22926829268292684, 'T_stance': 0.16170731707317076, 'T_swing': 0.06756097560975609}
+
+Averaged gait metrics:
+{'duty': 0.6123655989179511, 'T_stride': 0.22625609756097564, 'T_stance': 0.1392492257065428, 'T_swing': 0.08700687185443283}
