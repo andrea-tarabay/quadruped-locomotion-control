@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Training outputs
+logs/
+
+# Model checkpoints / weights
+*.pt
+*.pth
+*.ckpt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Keep demo videos for now
+
+# Trained RL models
+weights/**/*.zip
+weights/**/*.pkl
